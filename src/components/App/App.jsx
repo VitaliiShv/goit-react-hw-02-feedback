@@ -1,8 +1,6 @@
 import FeedbackOptions from '../FeedbackOptions/FeedbackOptions';
 import React, { Component } from 'react';
-
 import { Container } from './App.styled';
-
 import Statistics from '../Statistics/Statistics';
 import Section from '../Section/Section';
 import Notification from '../Notification/Notification';
